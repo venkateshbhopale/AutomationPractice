@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Request-Context: appId=cid-v1:d0913774-6567-4abe-bc41-c2cda66fa040
+Access-Control-Expose-Headers: Request-Context
+Content-Security-Policy: default-src 'self'; 
+       script-src 'self' blob: cdnjs.cloudflare.com 'unsafe-inline' 'unsafe-eval' cdn.jsdelivr.net ajax.googleapis.com code.jquery.com maxcdn.bootstrapcdn.com unpkg.com googletagmanager.com/gtag; 
+       script-src-elem 'self' blob: cdnjs.cloudflare.com 'unsafe-inline' 'unsafe-eval' cdn.jsdelivr.net ajax.googleapis.com code.jquery.com maxcdn.bootstrapcdn.com unpkg.com googletagmanager.com https://www.googletagmanager.com/;
+       style-src 'self' 'unsafe-inline' cdnjs.cloudflare.com fonts.googleapis.com cdn.jsdelivr.net maxcdn.bootstrapcdn.com unpkg.com; 
+       img-src 'self' data: blob: msgcloudstorage.blob.core.windows.net rfcintappstorage.blob.core.windows.net cdnjs.cloudflare.com cdn.jsdelivr.net; 
+       connect-src 'self' cdnjs.cloudflare.com en.wikipedia.org nominatim.openstreetmap.org cdn.jsdelivr.net cdnjs.cloudflare.com en.wikipedia.org nominatim.openstreetmap.org cdn.jsdelivr.net googletagmanager.com https://www.googletagmanager.com/ https://www.google-analytics.com;
+       frame-src 'self' cdnjs.cloudflare.com en.wikipedia.org en.wikipedia.org www.google.com/ rfcintappstorage.blob.core.windows.net cdn.jsdelivr.net;
+       font-src 'self' fonts.gstatic.com cdnjs.cloudflare.com cdn.jsdelivr.net;
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Permitted-Cross-Domain-Policies: none
+Permissions-Policy: accelerometer=(), camera=(self), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+Date: Mon, 18 Nov 2024 11:58:03 GMT
+Connection: keep-alive
+Content-Length: 24685
+
